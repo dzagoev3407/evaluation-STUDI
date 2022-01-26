@@ -1,2 +1,14 @@
-Etape 1- Modification des couleurs, la mise en page du code
-Evaluation , HTML/CSS/Bootstrap de ma formation STUDI en développement web full-stack
+Bonjour, 
+
+Cher ou chère lecteur ou lectrice, dans ce dépôt GitHub, vous trouverez tous les fichiers de mon projet pour l'évalutaion de ma formation de chez STUDI cela concerne l'évalution "Évaluation d'entraînement - Créer un site web avec HTML, CSS et le Framework Bootstrap".
+
+Vous aures également le code source de ma page web.
+============================================================================================================================
+
+- Commencement du projet :
+
+J'ai choisis le rose et le blanc en ce qui concerne la couleur de mon site web.
+
+code couleur du rose : #ff00a4.
+code couleur du blanc : #fff.
+
