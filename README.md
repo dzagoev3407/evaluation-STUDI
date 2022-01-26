@@ -2,7 +2,7 @@ Bonjour,
 
 Cher ou chère lecteur ou lectrice, dans ce dépôt GitHub, vous trouverez tous les fichiers de mon projet pour l'évalutaion de ma formation de chez STUDI cela concerne l'évalution "Évaluation d'entraînement - Créer un site web avec HTML, CSS et le Framework Bootstrap".
 
-Vous aures également le code source de ma page web.
+Vous aurez également le code source de ma page web.
 ============================================================================================================================
 
 - Commencement du projet :
