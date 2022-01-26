@@ -12,3 +12,6 @@ J'ai choisis le rose et le blanc en ce qui concerne la couleur de mon site web.
 code couleur du rose : #ff00a4.
 code couleur du blanc : #fff.
 
+===========================================================================================================================
+
+Vous consulter la suite du projet sur le fichier : Nos services.md
