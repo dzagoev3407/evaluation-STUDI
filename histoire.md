@@ -4,4 +4,6 @@ Voici la partie histoire des Restos du Coeur
 
 - Réalisation des images dans le timeline ainsi que le titre et la description qui va avec voir document joint.
 
-(MAJ le 26/01/2022 à 15h38)
+- Voir fichier siège.md pour la suite.
+
+(MAJ le 27/01/2022 à 15h38)
