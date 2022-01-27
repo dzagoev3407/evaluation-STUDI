@@ -7,9 +7,9 @@ Vous aurez également le code source de ma page web.
 
 - Commencement du projet :
 
-J'ai choisis le rose et le blanc en ce qui concerne la couleur de mon site web.
+J'ai choisis le rose(mais ce rose se rapproche beaucoup du viloet) et le blanc en ce qui concerne la couleur de mon site web.
 
-code couleur du rose : #ff00a4.
+code couleur du rose : #bc1580.
 code couleur du blanc : #fff.
 
 ===========================================================================================================================
